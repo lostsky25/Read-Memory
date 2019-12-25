@@ -1,0 +1,3 @@
+CFILES += read_reg.c
+CFILES += tbv_lib/tbv.c
+CFILES += sig_exchange_lib/sig_lib.c
